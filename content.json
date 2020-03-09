@@ -1,1 +1,1 @@
-{"pages":[],"posts":[{"title":"test","text":"","link":"/2020/03/09/test/"},{"title":"test","text":"","link":"/2020/03/09/test-1/"}],"tags":[],"categories":[]}
+{"pages":[],"posts":[{"title":"test","text":"","link":"/2020/03/09/test-1/"},{"title":"test","text":"","link":"/2020/03/09/test/"}],"tags":[{"name":"test","slug":"test","link":"/tags/test/"},{"name":"haha","slug":"haha","link":"/tags/haha/"}],"categories":[{"name":"test","slug":"test","link":"/categories/test/"},{"name":"test2","slug":"test/test2","link":"/categories/test/test2/"}]}
