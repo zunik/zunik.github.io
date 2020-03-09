@@ -9,28 +9,28 @@
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description></description>
-    <pubDate>Mon, 09 Mar 2020 14:29:47 GMT</pubDate>
+    <pubDate>Mon, 09 Mar 2020 14:47:35 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
-      <title>test</title>
-      <link>https://zunik.github.io/2020/03/09/test/</link>
-      <guid>https://zunik.github.io/2020/03/09/test/</guid>
-      <pubDate>Mon, 09 Mar 2020 13:38:33 GMT</pubDate>
+      <title>hello</title>
+      <link>https://zunik.github.io/2020/03/09/hello/</link>
+      <guid>https://zunik.github.io/2020/03/09/hello/</guid>
+      <pubDate>Mon, 09 Mar 2020 14:47:29 GMT</pubDate>
       <description>
       
         
         
-          &lt;p&gt;test&lt;/p&gt;
+          &lt;p&gt;tests&lt;/p&gt;
 
         
       
       </description>
       
       
-      <content:encoded><![CDATA[<p>test</p>]]></content:encoded>
+      <content:encoded><![CDATA[<p>tests</p>]]></content:encoded>
       
-      <comments>https://zunik.github.io/2020/03/09/test/#disqus_thread</comments>
+      <comments>https://zunik.github.io/2020/03/09/hello/#disqus_thread</comments>
     </item>
     
   </channel>
