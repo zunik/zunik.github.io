@@ -1,0 +1,33 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: hello-second
+spec:
+  type: ClusterIP
+  ports:
+  - port: 80
+    targetPort: 5678
+  selector:
+    app: hello-second
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: hello-second
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: hello-second
+  template:
+    metadata:
+      labels:
+        app: hello-second
+    spec:
+      containers:
+      - name: hello-second
+        image: hashicorp/http-echo
+        args:
+        - "-text=Hello from the second deployment!"
+        ports:
+        - containerPort: 5678
