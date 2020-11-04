@@ -2,20 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://zunik.me/2019/07/10/virtuous-cycle/</loc>
-    
-    <lastmod>2020-08-24T15:26:07.201Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://zunik.me/2020/08/20/life-learned-from-evolution/</loc>
-    
-    <lastmod>2020-08-19T17:02:19.665Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://zunik.me/2020/03/22/create-digitalocean-kubernetes/</loc>
     
     <lastmod>2020-08-19T15:08:29.002Z</lastmod>
